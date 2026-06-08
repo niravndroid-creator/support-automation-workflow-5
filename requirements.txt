@@ -1,0 +1,6 @@
+azure-functions>=1.21.0
+azure-ai-projects>=1.0.0
+azure-core>=1.30.0
+azure-cosmos>=4.9.0
+azure-identity>=1.17.0
+requests>=2.32.0

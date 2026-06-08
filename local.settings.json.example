@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "",
+    "WORKFLOW_SCHEDULE": "",
+    "LOG_TO_CONSOLE": "",
+    "PROJECT_ENDPOINT": "",
+    "AZURE_AI_API_KEY": "",
+    "AGENT_ID_DETERMINE_THE_EMAIL_INTENT": "",
+    "AGENT_VERSION_DETERMINE_THE_EMAIL_INTENT": "",
+    "MCP_MYEMAILMCPSERVER_ENDPOINT": "",
+    "COSMOS_DB_ENDPOINT": "",
+    "COSMOS_DB_DATABASE": "",
+    "COSMOS_DB_KEY": "",
+    "WORKFLOW_ID": "",
+    "WORKFLOW_NAME": ""
+  }
+}
